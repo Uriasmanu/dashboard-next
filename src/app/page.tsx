@@ -1,4 +1,5 @@
 import ChartOverviwer from "@/components/Chart";
+import Sales from "@/components/Sales";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { BadgeDollarSign, DollarSign, Percent, Users } from "lucide-react";
 
@@ -85,6 +86,7 @@ export default function Home() {
 
       <section className="mt-4 flex flex-col md:flex-row gap-4">
         <ChartOverviwer />
+        <Sales/>
       </section>
     </main>
   );
