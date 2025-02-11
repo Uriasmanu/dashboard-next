@@ -19,7 +19,7 @@ export default function Sales() {
 
             <CardContent>
                 <article className="flex items-center gap-2 border-b py-2">
-                    <Avatar className="w-8 h-8">
+                    <Avatar className="w-10 h-10">
                         <AvatarImage src="https://images.unsplash.com/photo-1610041321420-a596dd14ebc9?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                         <AvatarFallback>DV</AvatarFallback>
                     </Avatar>
@@ -33,7 +33,7 @@ export default function Sales() {
 
             <CardContent>
                 <article className="flex items-center gap-2 border-b py-2">
-                    <Avatar className="w-8 h-8">
+                    <Avatar className="w-10 h-10">
                         <AvatarImage src="https://images.unsplash.com/photo-1610041321420-a596dd14ebc9?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                         <AvatarFallback>DV</AvatarFallback>
                     </Avatar>
@@ -47,7 +47,7 @@ export default function Sales() {
 
             <CardContent>
                 <article className="flex items-center gap-2 border-b py-2">
-                    <Avatar className="w-8 h-8">
+                    <Avatar className="w-10 h-10">
                         <AvatarImage src="https://images.unsplash.com/photo-1610041321420-a596dd14ebc9?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
                         <AvatarFallback>DV</AvatarFallback>
                     </Avatar>
